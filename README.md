@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 hey, I’m etherchild  
 
-<!--
-**etherOnGitHub/etherOnGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 junior full-stack developer  
+💻 currently building [aetherwave.rm](https://github.com/etherOnGitHub/capstone-aetherwave-rm) — a React × Django app for real-time audio synthesis  
+🎧 blending code, design, and sound  
 
-Here are some ideas to get you started:
+### ⚙️ stack  
+**Frontend:** React · TypeScript · HTML · CSS  
+**Backend:** Python · Django · Node.js  
+**Database:** PostgreSQL  
+**Deployment:** Heroku · GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 what I like to build  
+- interactive web apps with strong UX  
+- AI + audio-driven projects  
+- clean, efficient full-stack systems
+
+### 🌌 about aetherwave
+*aetherwave* is my creative hub — a blend of code, sound, and design.  
+it’s where I build tools, visuals, and systems that live in the same universe.  
+[aetherwave.rm](https://github.com/etherOnGitHub/capstone-aetherwave-rm)
+
+### 🪐 what’s next  
+learning containerization, expanding the aetherwave toolset,  
+and probably over-engineering something cool.  
+
+---
