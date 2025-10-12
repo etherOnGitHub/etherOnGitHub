@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="120" viewBox="0 0 1600 120" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00A0FF"/>
+      <stop offset="100%" stop-color="#7FDFFF"/>
+    </linearGradient>
+    <filter id="glitchA" x="-20%" y="-50%" width="140%" height="200%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.005" numOctaves="2" seed="2" stitchTiles="stitch" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="glitchB" x="-20%" y="-50%" width="140%" height="200%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.01" numOctaves="1" seed="8" stitchTiles="stitch" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="10" xChannelSelector="B" yChannelSelector="R"/>
+    </filter>
+  </defs>
+
+  <path d="M 0 60 L 0 34 L 144.0 86 L 160 86 L 160 34 L 304.0 86 L 320 86 L 320 34 L 464.0 86 L 480 86 L 480 34 L 624.0 86 L 640 86 L 640 34 L 784.0 86 L 800 86 L 800 34 L 944.0 86 L 960 86 L 960 34 L 1104.0 86 L 1120 86 L 1120 34 L 1264.0 86 L 1280 86 L 1280 34 L 1424.0 86 L 1440 86 L 1440 34 L 1584.0 86 L 1600 86 L 1600 34 L 1744.0 86 L 1760 86" stroke="url(#grad)" stroke-width="2.6" fill="none" stroke-linejoin="round"
+        stroke-dasharray="40 10 14 12 44 14 8 18 20 12" opacity="0.95"/>
+  <g filter="url(#glitchA)" opacity="0.55">
+    <path d="M 0 60 L 0 34 L 144.0 86 L 160 86 L 160 34 L 304.0 86 L 320 86 L 320 34 L 464.0 86 L 480 86 L 480 34 L 624.0 86 L 640 86 L 640 34 L 784.0 86 L 800 86 L 800 34 L 944.0 86 L 960 86 L 960 34 L 1104.0 86 L 1120 86 L 1120 34 L 1264.0 86 L 1280 86 L 1280 34 L 1424.0 86 L 1440 86 L 1440 34 L 1584.0 86 L 1600 86 L 1600 34 L 1744.0 86 L 1760 86" stroke="#7FDFFF" stroke-width="1.8" fill="none" stroke-linejoin="round"
+          stroke-dasharray="28 12 8 10 36 10 6 16 18 10"/>
+  </g>
+  <g filter="url(#glitchB)" opacity="0.45">
+    <path d="M 0 60 L 0 34 L 144.0 86 L 160 86 L 160 34 L 304.0 86 L 320 86 L 320 34 L 464.0 86 L 480 86 L 480 34 L 624.0 86 L 640 86 L 640 34 L 784.0 86 L 800 86 L 800 34 L 944.0 86 L 960 86 L 960 34 L 1104.0 86 L 1120 86 L 1120 34 L 1264.0 86 L 1280 86 L 1280 34 L 1424.0 86 L 1440 86 L 1440 34 L 1584.0 86 L 1600 86 L 1600 34 L 1744.0 86 L 1760 86" stroke="#0A66FF" stroke-width="1.4" fill="none" stroke-linejoin="round"
+          stroke-dasharray="32 12 6 8 30 10 5 14 14 9"/>
+  </g>
+</svg>
