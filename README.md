@@ -1,3 +1,6 @@
+<img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/banners/etherchild_banner_transparent_cropped.png" aria="hero image, etherchild in big neon letters with blue glitched background">
+
+
 <h1 align="center" aria="Hey! I'm etherchild">👋 Hey, I’m etherchild!  </h1>
 <p align="center">
 🧠 junior full-stack developer  
