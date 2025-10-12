@@ -38,7 +38,7 @@ Check out my music too!<br>
 <a href="https://github.com/etherOnGitHub/capstone-aetherwave-rm" aria="link to soundcloud">etherchild on SoundCloud</a><br>
 </p> 
 
-<img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_straight.svg">
+<img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_texture_4.png">
 
 <h2 align="center">🪐 What’s Next?</h2>
 <p align="center">
