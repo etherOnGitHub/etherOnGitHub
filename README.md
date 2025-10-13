@@ -1,5 +1,6 @@
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/banners/etherchild_banner_transparent_cropped.png" aria="hero image, etherchild in big neon letters with blue glitched background">
 
+![etherOnGitHub's Stats](https://github-readme-stats.vercel.app/api?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 <h1 align="center" aria="Hey! I'm etherchild">👋 Hey, I’m etherchild!  </h1>
 <p align="center">
@@ -17,6 +18,8 @@
   <b>Database: </b>PostgreSQL · NeonDB  <br>
   <b>Deployment: </b>Heroku · GitHub  <br>
 </p> 
+
+![etherOnGitHub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_square.svg">
 
