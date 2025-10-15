@@ -38,7 +38,7 @@
 it’s where I build tools, visuals, and systems that live in the same universe.  <br>
 <a href="https://github.com/etherOnGitHub/capstone-aetherwave-rm" aria="link to synth website project">aetherwave.rm</a><br>
 Check out my music too!<br>
-<a href="https://github.com/etherOnGitHub/capstone-aetherwave-rm" aria="link to soundcloud">etherchild on SoundCloud</a><br>
+<a href="https://soundcloud.com/etherchild" aria="link to soundcloud">etherchild on SoundCloud</a><br>
 </p> 
 
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_texture_4.png">
