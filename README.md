@@ -5,7 +5,7 @@
 <h1 align="center" aria="Hey! I'm etherchild">👋 Hey, I’m etherchild!  </h1>
 <p align="center">
 🧠 junior full-stack developer  
-💻 currently building <a href="https://github.com/etherOnGitHub/capstone-aetherwave-rm" aria="link to current project">aetherwave.rm</a> — a React × Django app for real-time audio synthesis  
+💻 currently building <a href="https://github.com/etherOnGitHub/constcollection-art-portfolio-and-shop/" aria="link to current project">an art site for a client with a team</a>
 🎧 blending code, design, and sound  
 </p>
 
