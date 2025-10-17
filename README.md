@@ -2,7 +2,7 @@
 
 ![etherOnGitHub's Stats](https://github-readme-stats.vercel.app/api?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-<h1 align="center" aria="Hey! I'm etherchild">👋 Hey, I’m etherchild!  </h1>
+<h1 align="center" aria="Hey! I'm Callum">👋 Hey, I’m Callum! also using the pseudonym "etherchild" </h1>
 <p align="center">
 🧠 junior full-stack developer  
 💻 currently building <a href="https://github.com/etherOnGitHub/constcollection-art-portfolio-and-shop/" aria="link to current project">an art site for a client with a team</a>
