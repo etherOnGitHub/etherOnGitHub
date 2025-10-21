@@ -5,7 +5,7 @@
 <h1 align="center" aria="Hey! I'm Callum">👋 Hey, I’m Callum! also using the pseudonym "etherchild" </h1>
 <p align="center">
 🧠 junior full-stack developer  
-💻 currently building <a href="https://github.com/etherOnGitHub/constcollection-art-portfolio-and-shop/" aria="link to current project">an art site for a client with a team</a>
+💻 currently building <a href="https://github.com/etherOnGitHub/portfolio-dev-app/" aria="link to current project">a portfolio website</a>
 🎧 blending code, design, and sound  
 </p>
 
