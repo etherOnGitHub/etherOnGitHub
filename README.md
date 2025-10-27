@@ -1,6 +1,15 @@
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/banners/etherchild_banner_transparent_cropped.png" aria="hero image, etherchild in big neon letters with blue glitched background">
 
-![etherOnGitHub's Stats](https://github-readme-stats.vercel.app/api?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etherongithub/etherongithub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/etherongithub/etherongithub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/etherongithub/etherongithub/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="165">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+</div>
 
 <h1 align="center" aria="Hey! I'm Callum">👋 Hey, I’m Callum! also using the pseudonym "etherchild" </h1>
 <p align="center">
