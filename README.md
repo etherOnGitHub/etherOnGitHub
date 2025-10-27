@@ -22,8 +22,6 @@
 🎧 blending code, design, and sound  
 </p>
 
-<img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_texture_3.png">
-
 <h2 align="center">🧩 Featured Projects</h2>
 
 <p align="center">each piece is part of the same universe — crafted with code, sound, and intent.</p>
