@@ -28,8 +28,6 @@
   <b>Deployment: </b>Heroku · GitHub  <br>
 </p> 
 
-![etherOnGitHub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_square.svg">
 
 <h2 align="center">🚀 What I Like to Build </h2>
