@@ -67,12 +67,33 @@
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_sine.svg">
 
 <h2 align="center">⚙️ Stack</h2> 
-<p align="center">
-  <b>Frontend: </b>React · TypeScript · HTML · CSS  <br>
-  <b>Backend: </b>Python · Django · Node.js  <br>
-  <b>Database: </b>PostgreSQL · NeonDB  <br>
-  <b>Deployment: </b>Heroku · GitHub  <br>
-</p> 
+
+<div align="center">
+
+<!-- Frontend -->
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?logo=typescript&logoColor=3178C6&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-1A1A1A?logo=html5&logoColor=E34F26&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1A1A1A?logo=css3&logoColor=1572B6&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-1A1A1A?logo=vite&logoColor=646CFF&style=for-the-badge)
+![React](https://img.shields.io/badge/React-1A1A1A?logo=react&logoColor=00D8FF&style=for-the-badge)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?logo=node.js&logoColor=5FA04E&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-1A1A1A?logo=django&logoColor=00FFAA&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB&style=for-the-badge)
+
+<!-- Data & DevOps -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?logo=postgresql&logoColor=316192&style=for-the-badge)
+![NeonDB](https://img.shields.io/badge/NeonDB-1A1A1A?logo=postgresql&logoColor=00E88F&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-1A1A1A?logo=heroku&logoColor=8A2BE2&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?logo=github&logoColor=FFFFFF&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-1A1A1A?logo=git&logoColor=F05032&style=for-the-badge)
+
+<!-- Audio / Creative -->
+![Tone.js](https://img.shields.io/badge/Tone.js-1A1A1A?logo=soundcharts&logoColor=FF0080&style=for-the-badge)
+
+</div>
 
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_square.svg">
 
