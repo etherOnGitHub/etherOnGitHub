@@ -52,7 +52,7 @@
   <a href="https://github.com/etherOnGitHub/httpano" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/previews/httpano_preview.gif" width="420" alt="HTTPano hackathon site preview">
   </a>
-  <p><b>HTTPano</b> — hackathon-built mental health resource hub powered by AI recommendations.<br>
+  <p><b>HTTPano</b> — hackathon built piano playback machine powered by AI recommendations.<br>
   <em>built fast, built together — human + machine collaboration.</em></p>
 
   <br>
