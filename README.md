@@ -29,7 +29,7 @@
 <div align="center">
 
   <!-- Aetherwave.rm -->
-  <a href="https://github.com/etherOnGitHub/capstone-aetherwave-rm" target="_blank">
+  <a href="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/aether" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/previews/aetherwave_preview.gif" width="420" alt="aetherwave.rm preview">
   </a>
   <p><b>aetherwave.rm</b> — an AI-augmented audio-synth web app built with React, Tone.js, Tailwind, and Django.<br>
@@ -38,7 +38,7 @@
   <br>
 
   <!-- Const Collection -->
-  <a href="https://github.com/etherOnGitHub/constcollection-art-portfolio-and-shop" target="_blank">
+  <a href="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/const" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/previews/const_collection_preview.gif" width="420" alt="Const Collection preview">
   </a>
   <p><b>Const Collection</b> — a full-stack Django e-commerce gallery built for artist <em>Cecilia K</em>.<br>
@@ -47,7 +47,7 @@
   <br>
 
   <!-- HTTPano -->
-  <a href="https://github.com/etherOnGitHub/httpano" target="_blank">
+  <a href="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/piano" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/previews/httpano_preview.gif" width="420" alt="HTTPano hackathon site preview">
   </a>
   <p><b>HTTPano</b> — hackathon built piano playback machine powered by AI recommendations.<br>
@@ -56,7 +56,7 @@
   <br>
 
   <!-- SafeAndSound -->
-  <a href="https://github.com/etherOnGitHub/safeandsound" target="_blank">
+  <a href="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/safe" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/previews/safeandsound_preview.gif" width="420" alt="SafeAndSound preview">
   </a>
   <p><b>SafeAndSound</b> — a Bootstrap-based awareness site focused on safeguarding and online safety.<br>
