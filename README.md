@@ -42,7 +42,8 @@
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/const" width="420" alt="Const Collection preview">
   </a>
   <p><b>Const Collection</b> — a full-stack Django e-commerce gallery built for artist <em>Cecilia K</em>.<br>
-  <em>a minimalist exhibition space for digital art and print sales.</em></p>
+  <em>a minimalist exhibition space for digital art and print sales.</em></p><br>
+  <em> "Probably the one I liked the most. (I) liked to fonts and layout, felt a little artsy. (I) Liked the tag line at the top of the page, the logo was centered and discreet, photos of art in home environments is a great way to convince buyers that it would look good on their walls, info at the end was nice include social media links/icons, nice bio, nice with the quotes." </em>
 
   <br>
 
