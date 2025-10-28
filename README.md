@@ -34,6 +34,8 @@
   </a>
   <p><b>aetherwave.rm</b> — an AI-augmented audio-synth web app built with React, Tone.js, Tailwind, and Django.<br>
   <em>where sound and code merge into one signal.</em></p>
+  
+---
 
   <br>
 
@@ -45,6 +47,8 @@
   <em>a minimalist exhibition space for digital art and print sales.</em></p>
   <sub><em> "Probably the one I liked the most. (I) liked to fonts and layout, felt a little artsy. (I) liked the tag line at the top of the page, the logo was centered and discreet, photos of art in home environments is a great way to convince buyers that it would look good on their walls, info at the end was nice include social media links/icons, nice bio, nice with the quotes." - Cecilia K.</em></sub><br>
 
+---
+
   <br>
 
   <!-- HTTPano -->
@@ -53,6 +57,9 @@
   </a>
   <p><b>HTTPano</b> — hackathon built piano playback machine powered by AI recommendations.<br>
   <em>built fast, built together — human + machine collaboration.</em></p>
+
+
+---
 
   <br>
 
