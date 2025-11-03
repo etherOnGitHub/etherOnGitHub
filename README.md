@@ -39,6 +39,17 @@
 
   <br>
 
+   <!-- Spooky Suprise -->
+  <a href="https://github.com/etherOnGitHub/spooky-surprise" target="_blank">
+    <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/spooky" width="420" alt="Const Collection preview">
+  </a>
+  <p><b>Corrupted Veil of Alderthorn - a Text Adventure</b> — a react app with clean logic and node based story chapters for infinite scalability.<br>
+  <em>A fun spooky time built for fun and to have fun!</em></p><br>
+  
+---
+
+  <br>
+  
   <!-- Const Collection -->
   <a href="https://github.com/etherOnGitHub/constcollection-art-portfolio-and-shop" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/const" width="420" alt="Const Collection preview">
