@@ -45,8 +45,15 @@
   </a>
   <p><b>Corrupted Veil of Alderthorn - a Text Adventure</b> — a react app with clean logic and node based story chapters for infinite scalability.<br>
   <em>A fun spooky time built for fun and to have fun!</em></p><br>
+  <p>
+	  Voted winner of the Code Institute Halloween Hackathon 2025!
+  </p>
+  <br>
+  <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/win-oct-2025.png" width="420" alt="voted winner">
+  <br>
   
 ---
+
 
   <br>
   
