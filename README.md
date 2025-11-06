@@ -48,7 +48,6 @@
   <p>
 	  Voted winner of the Code Institute Halloween Hackathon 2025!
   </p>
-  <br>
   <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/win-oct-2025.png" width="420" alt="voted winner">
   <br>
   
