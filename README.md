@@ -148,5 +148,8 @@ learning containerization, expanding the aetherwave toolset,
 and probably over-engineering something cool.  
 </p> 
 
+<p align="center">
+<img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/personal/signaturedarkmode.png" width="240" alt="signature">
+</p> 
 
 ---
