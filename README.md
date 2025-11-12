@@ -9,8 +9,8 @@
 </picture>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="165">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherOnGitHub&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=etherOnGitHub&theme=tokyonight&title_color=00AFFF&icon_color=00FFFF&text_color=9FC8FF&bg_color=000814&show_icons=true&hide_border=false&count_private=true" height="165">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherOnGitHub&theme=tokyonight&title_color=00AFFF&icon_color=00FFFF&text_color=9FC8FF&bg_color=000814&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/dividers/aetherwave_divider_texture_2.png">
