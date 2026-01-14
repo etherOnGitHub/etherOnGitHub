@@ -72,7 +72,7 @@
   <a href="https://github.com/etherOnGitHub/http-ano" target="_blank">
     <img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/piano" width="420" alt="HTTPano hackathon site preview">
   </a>
-  <p><b>HTTPano</b> — hackathon built piano playback machine powered by AI recommendations.<br>
+  <p><b>HTTPano</b> — hackathon built piano playback machine.<br>
   <em>built fast, built together — human + machine collaboration.</em></p>
 
 
