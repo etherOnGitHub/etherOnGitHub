@@ -18,7 +18,7 @@
 <h1 align="center" aria="Hey! I'm Callum">👋 Hey, I’m Callum! also using the pseudonym "etherchild" </h1>
 <p align="center">
 🧠 junior full-stack developer  
-💻 currently building <a href="https://github.com/etherOnGitHub/aetherport" aria="link to current project">a portfolio website</a>
+💻 currently building <a href="https://github.com/etherOnGitHub/aetherport" aria="link to current portfolio website project">a portfolio website</a> & a  <a href="https://github.com/etherOnGitHub/signal--form" aria="link to current python project">cool python project!</a>
 🎧 blending code, design, and sound  
 </p>
 
