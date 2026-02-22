@@ -143,7 +143,7 @@ Check out my music too!<br>
 
 <h2 align="center">🪐 What’s Next?</h2>
 <p align="center">
-learning containerization, expanding the aetherwave toolset,  
+learning containerization, expanding the aetherwave toolset, learning more about ML in Python, understanding Rust  
 and probably over-engineering something cool.  
 </p> 
 
